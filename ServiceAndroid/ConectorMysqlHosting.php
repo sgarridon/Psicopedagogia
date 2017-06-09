@@ -1,6 +1,6 @@
 <?php 
 
-$host = "localhost";
+$host = "localhost";  //server
 $user = "root";
 $pass = "";
 $db   = "psicopedagogia";
