@@ -1,0 +1,2 @@
+<script type="text/javascript" src="<?php echo base_url("js/jquery-3.1.1.min.js"); ?>"></script> <!– Importante llamar antes a jQuery para que funcione bootstrap.min.js   –> 
+<script type="text/javascript" src="<?php echo base_url("js/bootstrap.min.js"); ?>"></script> <!– Llamamos al JavaScript de Bootstrap –>
